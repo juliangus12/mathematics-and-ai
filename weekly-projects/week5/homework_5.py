@@ -1,5 +1,7 @@
 # Homework 5 (due 07/30/2024)
 
+# Completed in conjunction with Daniel Duan
+
 # standard imports
 import os, random
 import numpy as np
